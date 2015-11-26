@@ -1,0 +1,3 @@
+function moi(){
+  alert("Moi");
+}
